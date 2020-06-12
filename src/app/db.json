@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "waleed mohamed",
+      "email": "waleed@test.com",
+      "age": 24,
+      "course": "CSS3"
+    },
+    {
+      "id": 2,
+      "name": "Mokhtar Ali",
+      "email": "mokhtar@test.com",
+      "age": 24,
+      "course": "CSS3"
+    },
+    {
+      "id": 3,
+      "name": "eleen",
+      "email": "eleen@rady.com",
+      "age": 1,
+      "course": "ES6"
+    }
+  ]
+}

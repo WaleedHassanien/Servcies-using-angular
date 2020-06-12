@@ -1,0 +1,23 @@
+table {
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    
+}
+table thead
+{
+    border-bottom: 2px solid gray;
+    border-spacing: px;
+}
+
+th, td {
+  border-bottom: 2px solid gray;
+ 
+
+  border-spacing: 3px;
+  text-align: center;
+}
+td{
+    border-right: 2px solid gray;
+
+}

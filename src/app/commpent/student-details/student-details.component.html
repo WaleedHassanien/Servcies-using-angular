@@ -1,0 +1,11 @@
+<div *ngIf="student" class="alert alert-warning">
+    
+    <h3>{{student.name}}</h3>
+    <h3>{{student.email}}</h3>
+    <h3>{{student.age}}</h3>
+    <h3>{{student.course}}</h3>
+<button class="btn btn-info m-3 " (click)="goEdit()">Edit</button>
+<button class="btn btn-info "(click)="DeleteFromApi()">Delete </button>
+
+
+</div>

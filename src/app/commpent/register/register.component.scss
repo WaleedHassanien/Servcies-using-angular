@@ -1,0 +1,55 @@
+
+h2
+{
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 5px;
+    width: 60%;
+    padding: 7px;
+    margin: 10px auto;
+    color: rgb(9, 9, 209);
+    border-bottom: 2px solid blue;
+    
+}
+form ,.form-group
+{
+    padding: 5px;
+    margin: auto;
+    width: 70%;
+
+}
+.form-group
+{
+  width: 100%;
+  text-align: center;  
+}
+.form-group label
+{
+    width: 33%;
+    display: inline-block;
+}
+.form-group label+*
+{
+  width: 65%;  
+  border: 1px solid gray;
+}
+.form-group [type=button]
+{
+width: 20%;
+background-color: lightblue;
+border-radius: 5px;
+border-bottom: 2px solid blue;
+text-shadow: 2px 2px 3px gray;
+font-size: 18px;
+padding: 5px;
+outline: none;
+color: white;
+}
+.form-group [type=button]:hover
+{
+    cursor: pointer;
+}
+.form-group [type=button]:active
+{
+scale: (1.1);
+}

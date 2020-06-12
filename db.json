@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "name": "waleed12",
+      "age": 21,
+      "email": "waleed@gmail.com",
+      "course": "Csharp",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "eleen",
+      "email": "eleen@gmail.com",
+      "course": "java",
+      "age": 1
+    },
+    {
+      "id": 3,
+      "name": "ahmed",
+      "email": "waleed@gmail.com",
+      "course": "c++",
+      "age": 25
+    },
+    {
+      "name": "englishk",
+      "age": 25,
+      "email": "waleed121095@gmail.com",
+      "course": "Angular",
+      "id": 4
+    }
+  ]
+}
